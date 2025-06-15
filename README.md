@@ -1,4 +1,4 @@
 # college-demo
 This is my first Git repository
 <br>
-Author - kashif ali
+Author - kashif (apna college)
